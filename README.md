@@ -1,24 +1,5 @@
 <h1 align="center">Multi-Region Disaster Recovery on AWS (Pilot Light)</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="EC2" />
-  <img src="https://img.shields.io/badge/AWS-ALB-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="ALB" />
-  <img src="https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="VPC" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DR%20Pattern-Pilot%20Light-orange?style=for-the-badge" alt="Pilot Light" />
-  <img src="https://img.shields.io/badge/Regions-2%20(us--east--1%20%2B%20eu--north--1)-blue?style=for-the-badge" alt="2 Regions" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA Pro" />
-  <img src="https://img.shields.io/badge/AWS%20Security-Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Security" />
-</p>
-
----
 
 ## Table of Contents
 
